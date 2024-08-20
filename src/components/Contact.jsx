@@ -37,7 +37,8 @@ const Contact = () => {
           form_name: form.name,
           to_name: "Liron",
           from_email: form.email,
-          to_email: "janislee1204@mail.com",
+          // to_email: "janislee1204@mail.com",
+          to_email: "benjamintan1013@mail.com",
           message: form.message,
         },
         "Jqq9AvwIuSjoMiA5c"
@@ -74,9 +75,9 @@ const Contact = () => {
         <h3 className={styles.sectionHeadText}>Contact.</h3>
 
         <div style={{ display: "flex", alignItems: "center", marginTop: 10 }}>
-          <a href="mailto:austinwalsh0101@gmail.com" target="_blank"></a>
+          <a href="mailto:benjamintan1013@gmail.com" target="_blank"></a>
           <img src={google} height={30} width={30} />{" "}
-          <div style={{ marginLeft: "10px" }}>austinwalsh0101@gmail.com</div>
+          <div style={{ marginLeft: "10px" }}>benjamintan1013@gmail.com</div>
         </div>
         <div
           style={{
@@ -89,7 +90,7 @@ const Contact = () => {
           <a href="https://github.com/BitFancy" target="_blank">
             <img src={github} height={30} width={30} />
           </a>{" "}
-          https://github.com/BitFancy
+          https://github.com/
         </div>
         <div
           style={{
