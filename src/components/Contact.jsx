@@ -76,7 +76,7 @@ const Contact = () => {
 
         <div style={{ display: "flex", alignItems: "center", marginTop: 10 }}>
           <a href="mailto:benjamintan1013@gmail.com" target="_blank"></a>
-          <img src={google} height={30} width={30} />{" "}
+          <img src={google} height={30} width={30} />
           <div style={{ marginLeft: "10px" }}>benjamintan1013@gmail.com</div>
         </div>
         <div
@@ -90,7 +90,7 @@ const Contact = () => {
           <a href="https://github.com/Kelvin-1013" target="_blank">
             <img src={github} height={30} width={30} />
           github.com/Kelvin-1013
-          </a>{" "}
+          </a>
         </div>
         <div
           style={{
