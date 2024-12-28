@@ -87,10 +87,10 @@ const Contact = () => {
             marginTop: 10,
           }}
         >
-          <a href="https://github.com/BitFancy" target="_blank">
+          <a href="https://github.com/Kelvin-1013" target="_blank">
             <img src={github} height={30} width={30} />
+          github.com/Kelvin-1013
           </a>{" "}
-          https://github.com/
         </div>
         <div
           style={{
@@ -101,12 +101,12 @@ const Contact = () => {
           }}
         >
           <a
-            href="https://www.linkedin.com/in/austin-walsh-999b70314"
+            href="https://www.linkedin.com/in/benjamin-tan1013/"
             target="_blank"
           >
             <img src={linkedin} height={30} width={30}></img>
-          </a>{" "}
           Benjamin Tan
+          </a>{" "}
         </div>
         {/* <div
           style={{
