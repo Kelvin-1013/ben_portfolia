@@ -106,7 +106,7 @@ const Contact = () => {
           >
             <img src={linkedin} height={30} width={30}></img>
           </a>{" "}
-          Austin Walsh
+          Benjamin Tan
         </div>
         {/* <div
           style={{

@@ -70,7 +70,7 @@ const Navbar = () => {
             height={50}
           /> */}
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-            Austin Walsh &nbsp;
+          Benjamin Tan &nbsp;
           </p>
         </Link>
 
